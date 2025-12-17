@@ -1,0 +1,5 @@
+{
+  "name": "SchoolReserve AI - 保護者面談予約システム",
+  "description": "Googleサイトに埋め込み可能な、プライバシー配慮型の保護者面談予約管理システムです。Gemini APIを活用して、面談の事前相談やスケジュール調整をサポートします。",
+  "requestFramePermissions": []
+}
